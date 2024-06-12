@@ -1,0 +1,17 @@
+bonne pratique: faire fonctionner l'app en bg
+serveur web :
+	127.0.0.1:8080 contenaire web qui tounenet 
+pour le mettre en 
+
+0158440400 
+
+mercer preparer base de données rest 12. g 
+base test 
+base source 
+courrier 4 methodes 
+les meilleurs methode de la performance
+commencer la première methode
+il n a pas pas tout traiter 
+traiter , j ai appelé :
+" 
+"
